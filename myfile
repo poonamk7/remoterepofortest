@@ -2,3 +2,4 @@ This file is created for practice purpose.
 Added few lines.
 Software testing is an activity conducted in the software development life-cycle to verify that the software is accurate and works according to the requirements. 
 Testing plays an integral part in any software development project.
+An agile software development model works in small iterations. You test the software in parallel as it is getting built. The developers build a small functionality according to the requirements. The testers test it and get customer feedback, which drives future development.
