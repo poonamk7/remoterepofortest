@@ -1,0 +1,11 @@
+Test cases to be automated can be selected using the following criterion to increase the automation ROI
+
+High Risk – Business Critical test cases
+Test cases that are repeatedly executed
+Test Cases that are very tedious or difficult to perform manually
+Test Cases which are time-consuming
+The following category of test cases are not suitable for automation:
+
+Test Cases that are newly designed and not executed manually at least once
+Test Cases for which the requirements are frequently changing
+Test cases which are executed on an ad-hoc basis.
